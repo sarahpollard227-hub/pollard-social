@@ -1,0 +1,5 @@
+[
+ {"file":"sun-story-1.png","theme":"black","html":"<div class=\"counter\">1 / 3</div><div style=\"padding-top:110px\"><div class=\"kicker\">Week-ahead check-in</div><div class=\"h1\">Has one of your bills gone up this year?</div></div>"},
+ {"file":"sun-story-2.png","theme":"white","html":"<div class=\"counter\">2 / 3</div><div style=\"padding-top:110px\"><div class=\"kicker\">When a bill changes</div><div class=\"h1\">Three quick steps</div><div class=\"body\">1. Update the amount in My Budget.<br>2. Check your balance at the bottom.<br>3. Adjust your transfers if needed.</div></div>"},
+ {"file":"sun-story-3.png","theme":"black","html":"<div class=\"counter\">3 / 3</div><div style=\"padding-top:110px\"><div class=\"kicker\">Your turn</div><div class=\"h1\">What money topic should I explain next?</div><div class=\"small\">General information only, not financial advice.</div></div>"}
+]
